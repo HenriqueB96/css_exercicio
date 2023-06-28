@@ -108,6 +108,22 @@ section h2{
     background-color: #ff9f1a;
 }
 
+#entertainment {
+    background-color: rgba(147, 212, 228, 0.438);
+}
+
+#entertainment .article article a {
+    background-color: rgba(0, 255, 255, 0.9);
+}
+
+#technology {
+    background-color: rgba(202, 152, 224, 0.89);
+}
+
+#technology .article article a {
+    background-color: rgba(204, 0, 255, 0.363);
+}
+
 .article article a{
     color: red;
 }
